@@ -1,0 +1,6 @@
+[submodule "software-correlator"]
+	path = software-correlator
+	url = https://github.com/brentjens/software-correlator
+[submodule "lofarimaging"]
+	path = lofarimaging
+	url = https://github.com/cosmicpudding/lofarimaging
